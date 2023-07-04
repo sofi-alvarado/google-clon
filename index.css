@@ -1,0 +1,19 @@
+.main {
+    margin-top: 100px;
+}
+
+.input-el {
+    margin-top: 20px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-el {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
